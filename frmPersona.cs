@@ -21,5 +21,10 @@ namespace ClaseGitHub
         {
 
         }
+
+        void funcion4()
+        {
+
+        }
     }
 }
