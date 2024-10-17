@@ -35,6 +35,11 @@ namespace ClaseGitHub
         {
 
         }
+
+          void funcionA()
+        {
+
+        }
         
     }
 }
