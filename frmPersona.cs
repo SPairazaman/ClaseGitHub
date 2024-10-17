@@ -26,5 +26,9 @@ namespace ClaseGitHub
         {
 
         }
+         void funcion5()
+        {
+
+        }
     }
 }
