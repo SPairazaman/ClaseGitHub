@@ -6,5 +6,10 @@ namespace ClaseGitHub
         {
             InitializeComponent();
         }
+
+        void funcion1()
+        {
+
+        }
     }
 }
